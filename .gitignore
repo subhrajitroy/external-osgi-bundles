@@ -1,0 +1,16 @@
+.idea
+*.iml
+target
+ektorp/target
+activemq/target
+gson/target
+jackson/target
+jsmpp/target
+kxml2/target
+lambdaj/target
+quartz/target
+smslib/target
+stax/target
+xstream/target
+junit/target
+
